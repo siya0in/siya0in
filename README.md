@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Siya Singh</h1>
 <h3 align="center">A Data Science Enthusiast with 6+ months of experience driving real-time projects through data-driven insights. Proven expertise in data science, statistical analysis, machine learning algorithms and project management. Welcome to my GitHub profile!</h3>
 
-<img align="right" alt = "Coding" src = "https://drive.google.com/file/d/13FDN0u98fOg_hv8wrv2vcSsoy4AiYKYd/view?usp=drive_link">
-  <img src="[[https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif](https://assets.team-consulting.com/wp-content/uploads/2022/01/07155136/animation-of-data-points-floating-on-a-dark-background.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF1dzVqZnFnYmt0amM4MzlxN3lkMnI4ajBsZ2VmdXhtbGtrZG42biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lvotGQwhzi6O0gQtV/giphy.gif))" width="400">
-</p>
-
+<img align="right" alt = "Coding" src = "[https://drive.google.com/file/d/13FDN0u98fOg_hv8wrv2vcSsoy4AiYKYd/view?usp=drive_link](https://tenor.com/view/work-internet-computer-penguin-working-gif-10660376455808528935)">
+ 
 - 🌱 I’m currently learning **Django and DSA**
 
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/siya-singh-123dfgh/) <br>
