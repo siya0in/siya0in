@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siya Singh</h1>
-<h3 align="center">I'm Siya Singh, a passionate data enthusiast. Welcome to my GitHub profile!</h3>
+<h3 align="center">A Data Science Enthusiast with 6+ months of experience driving real-time projects through data-driven insights. Proven expertise in data science, statistical analysis, machine learning algorithms and project management. Welcome to my GitHub profile!</h3>
 
 - 🌱 I’m currently learning **Django and DSA**
 
