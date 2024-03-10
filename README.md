@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Siya Singh</h1>
 <h3 align="center">A Data Science Enthusiast with 6+ months of experience driving real-time projects through data-driven insights. Proven expertise in data science, statistical analysis, machine learning algorithms and project management. Welcome to my GitHub profile!</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" width="400">
+</p>
+
 - 🌱 I’m currently learning **Django and DSA**
 
 - 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/siya-singh-123dfgh/) <br>
