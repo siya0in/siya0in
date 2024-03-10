@@ -2,7 +2,7 @@
 <h3 align="center">A Data Science Enthusiast with 6+ months of experience driving real-time projects through data-driven insights. Proven expertise in data science, statistical analysis, machine learning algorithms and project management. Welcome to my GitHub profile!</h3>
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif](https://assets.team-consulting.com/wp-content/uploads/2022/01/07155136/animation-of-data-points-floating-on-a-dark-background.gif)" width="400">
+  <img src="[[https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif](https://assets.team-consulting.com/wp-content/uploads/2022/01/07155136/animation-of-data-points-floating-on-a-dark-background.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnF1dzVqZnFnYmt0amM4MzlxN3lkMnI4ajBsZ2VmdXhtbGtrZG42biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lvotGQwhzi6O0gQtV/giphy.gif))" width="400">
 </p>
 
 - 🌱 I’m currently learning **Django and DSA**
