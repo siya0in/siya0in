@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django and DSA**
 
-- 📫 How to reach me **https://www.linkedin.com/in/siya-singh-123dfgh/**
+- 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/siya-singh-123dfgh/) <br>
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vnofRx2_y1jjr_fotqQWiPGqpxabIZQO/view](https://drive.google.com/file/d/1vnofRx2_y1jjr_fotqQWiPGqpxabIZQO/view)
 
