@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Django and DSA**
 
-- 📫 How to reach me: [Linkedin]https://www.linkedin.com/in/siya-singh-123dfgh/**
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/siya-singh-123dfgh/)
 
-- 📄 Know about my experiences [Resume]https://drive.google.com/file/d/1vnofRx2_y1jjr_fotqQWiPGqpxabIZQO/view](https://drive.google.com/file/d/1vnofRx2_y1jjr_fotqQWiPGqpxabIZQO/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vnofRx2_y1jjr_fotqQWiPGqpxabIZQO/view](https://drive.google.com/file/d/1vnofRx2_y1jjr_fotqQWiPGqpxabIZQO/view)
 
 - ⚡ Fun fact **I'm an avid reader and enjoy exploring books on topics ranging from philosophy to science fiction. One of my favorite authors is Agatha Christee.**
 
