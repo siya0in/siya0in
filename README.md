@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Django and DSA**
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/siya-singh-123dfgh/)
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vnofRx2_y1jjr_fotqQWiPGqpxabIZQO/view](https://drive.google.com/file/d/1vnofRx2_y1jjr_fotqQWiPGqpxabIZQO/view))
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/siya-singh-01asu/)
 
 - ⚡ Fun fact **I can sing confidently without knowing the lyrics.**
 
